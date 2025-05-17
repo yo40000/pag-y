@@ -87,6 +87,14 @@ h2{
     /*formato de las etiquetas p los textos*/
 }
 
+.p2{
+    font-family: cursive;
+    color: white;
+  text-shadow: 0 0 15px #fa0965;  
+  text-align: right;
+  margin: 10px;
+}
+
 .t1:active{
     zoom: 120%;
     color: beige;
